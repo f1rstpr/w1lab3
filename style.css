@@ -10,6 +10,10 @@ body {
     justify-content: center;
 }
 
+#form-button {
+    font-size: 15px;
+}
+
 .hidden {
     display: none;
 }

@@ -65,3 +65,5 @@ async function loadMore() {
     const newGifs = await turnIntoJson(SEARCH_QUERY);
     displayResults(newGifs, SEARCH_QUERY);
 }
+
+
